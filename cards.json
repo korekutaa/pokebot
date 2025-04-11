@@ -1,0 +1,17 @@
+{
+  "mewtwoexa1": {
+    "name": "Mewtwo EX (A1)",
+    "hp": "150",
+    "type": "🟣",
+    "ability": null,
+    "attack1": "Psychic Sphere 🟣⚪",
+    "damage1": "50",
+    "desc1": null,
+    "attack2": "Psydrive",
+    "damage2": "150",
+    "desc2": "Discard 2 🟣 Energy from this Pokémon.",
+    "weakness": "+20⚫",
+    "retreat": "⚪⚪",
+    "rarity": "♢♢♢♢"
+  }
+}
